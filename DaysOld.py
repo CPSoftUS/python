@@ -1,5 +1,5 @@
 # Date Written: April 16th, 2024
-# Date Modified: April 25th, 2024
+# Date Modified: May 12th, 2024
 # Name: Days old Program.
 # Language: Python 2 / 3.
 
@@ -16,7 +16,7 @@ print("")
 print("===================")
 print("Days Old Calculator")
 print("By: Dan Uff")
-print("Version 1.0")
+print("Version 1.1")
 print("")
 print("(c) 2024 CPS CO.")
 print("===================")
